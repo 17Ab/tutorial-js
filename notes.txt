@@ -1,0 +1,8 @@
+> node js its a js engine used to run js code.
+
+> How JS Works Behind The Scenes: (JS source code > Parser > Abstract Syntax Tree{AST} > Interpreter > Compiler > Machine Code)
+____________________________________
+
+https://images.app.goo.gl/aL559ZaovuPoYqv18
+
+> 
